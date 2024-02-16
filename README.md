@@ -1,5 +1,5 @@
 # Autonomous Vehicle Control with Object Tracking
-In this project, an autonomous vehicle that tracks objects has been designed using the Raspberry Pi 3B+ development board. 
+In this project, an autonomous vehicle that tracks objects has been designed using the Raspberry Pi 3B+ development board.
 The OpenCV library has been used for object tracking.
 The GPIO library has been used to provide the necessary PWM signals for controlling the motors.
 
